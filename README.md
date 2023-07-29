@@ -6,9 +6,11 @@ I am Lucas, Nguyen Khanh Thuan.
 
 My GitHub will contain the following:
 
-- My personal project, contains many repos that I also upload here. Typically, I will upload all elements of my projects: should be ranging from the core feature, machine learning features, user interacting, data pipelines, workflow, deploying workflow, tasks queues,...
+- My personal project, contains many repos that I also upload here. Typically, I will upload all elements of my projects: should be ranging from the core feature, machine learning features, user interacting, data pipelines, workflow, deploying workflow, task distributions, project architecture,...
 - Some of my experiments with new things: such as new languages, new techniques.
 - Some open source projects that I commit to contribute.
+
+⚡ Fun fact: I will not publish anything related to my work in my company, since it is top secret 
 
 
 <!--
