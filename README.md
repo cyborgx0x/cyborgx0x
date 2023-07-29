@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am Lucas, Nguyen Khanh Thuan.
+
+✨ My purpose is value creation. I'm currently working in an R&D department in my company. ✨
+
+My GitHub will contain the following:
+
+- My personal project, contains many repos that I also upload here. Typically, I will upload all elements of my projects: should be ranging from the core feature, machine learning features, user interacting, data pipelines, workflow, deploying workflow, tasks queues,...
+- Some of my experiments with new things: such as new languages, new techniques.
+- Some open source projects that I commit to contribute.
+
+
 <!--
 **cyborgx0x/cyborgx0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
