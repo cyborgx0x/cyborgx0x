@@ -2,7 +2,7 @@
 
 I am Lucas, Nguyen Khanh Thuan.
 
-✨ My purpose is value creation. I'm currently working in an R&D department in my company. ✨
+✨ My purpose is value creation. ✨
 
 My GitHub will contain the following:
 
