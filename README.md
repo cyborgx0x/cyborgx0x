@@ -17,11 +17,11 @@ My GitHub will contain the following:
 I write and share selected knowledge notes and research at my blog, built with
 [Hugo](https://gohugo.io/) and published via GitHub Pages:
 
-**👉 [cyborgx0x.github.io/blog](https://cyborgx0x.github.io/blog/)**
+**👉 [cyborgx0x.github.io](https://cyborgx0x.github.io/)**
 
 The posts are curated from my personal knowledge base, cleaned of any private
 context, and cover topics such as health, science, and technology — presented as
-objective reference notes with cited sources. Source repo: [cyborgx0x/blog](https://github.com/cyborgx0x/blog).
+objective reference notes with cited sources. Source repo: [cyborgx0x/cyborgx0x.github.io](https://github.com/cyborgx0x/cyborgx0x.github.io).
 
 
 <!--
